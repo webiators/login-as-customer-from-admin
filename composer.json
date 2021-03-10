@@ -1,0 +1,33 @@
+{
+    "name": "webiators/module-loginascustomerfromadmin",
+    "description": "Login as Customer From Admin extension by Webiators allow Admin to log in to any customer account.",
+    "type": "magento2-module",
+    "version": "1.0.0",
+    "license": [
+    "OSL-3.0",
+    "AFL-3.0"
+    ],
+    "authors": [
+        {
+          "name": "Webiators Technologies Private Limited",
+          "email": "support@webiators.com"
+        }
+    ],
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Webiators\\LoginAsCustomerFromAdmin\\": ""
+        }
+    },
+    "require": {},
+    "minimum-stability": "alpha",
+    "prefer-stable": true,
+    "repositories": {
+        "magento": {
+            "type": "composer",
+            "url": "https://repo.magento.com"
+        }
+    }
+}

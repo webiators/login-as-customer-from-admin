@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<!--
+/**
+ *
+ * @category   Webiators
+ * @package    Webiators_LoginAsCustomerFromAdmin
+ * @author     Webiators Team
+ * @copyright  Copyright (c) Webiators Technologies Private Limited. ( https://webiators.com ).
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Acl/etc/acl.xsd">
+	<acl>
+		<resources>
+			<resource id="Magento_Backend::admin">
+				<resource id="Magento_Backend::stores">
+					<resource id="Magento_Backend::stores_settings">
+						<resource id="Magento_Config::config">
+							<resource id="Webiators_LoginAsCustomerFromAdmin::config_webiators_loginascustomerfromadmin" title="webiator_loginascustomer"/>
+						</resource>
+					</resource>
+				</resource>
+			</resource>
+		</resources>
+	</acl>
+</config>
