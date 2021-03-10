@@ -1,1 +1,2 @@
-# login-as-customer-from-admin
+# Magneto 2 Login As Customer From Admin Extension
+The [Magento 2 Login As Customer Extension](https://store.webiators.com/magento-2-extensions/login-as-customer-from-admin.html) of Webiators now offers eCommerce store owners a smart and quick solution to find and resolve shopping-related problems by logging into a customer account from the admin panel. With the help of the  Magento 2  extension login as a customer from admin, it also helps the store owners to make their customers shopping without interruption and also provides a better user experience.
