@@ -48,5 +48,15 @@ Enable Module: choose 'Yes' to enable the module.
 - [Auto Invoice and Shipment](https://store.webiators.com/magento-2-extensions/auto-invoice-and-shipment.html)
 - [Login As Customer From Admin](https://store.webiators.com/magento-2-extensions/login-as-customer-from-admin.html)
 
-For more information, visit [https://store.webiators.com/](https://store.webiators.com/)
+### Magento 2 Services
+- [Magento Setup Service](https://store.webiators.com/services/magento-setup.html)
+- [Magento Development](https://store.webiators.com/services/magento-development.html)
+- [Magento 2 Migration Service](https://store.webiators.com/services/magento-2-migration-service.html)
+- [Magento 2 Upgrade Service](https://store.webiators.com/services/magento-2-upgrade-service.html)
+- [Magento Security Patch Installation](https://store.webiators.com/services/magento-security-patch-installation.html)
+- [Magento Payment Gateway Integration](https://store.webiators.com/services/magento-payment-gateway-integration.html)
+- [Magento Custom Extension Development](https://store.webiators.com/services/magento-custom-extension-development.html)
+- [Responsive Magento Design](https://store.webiators.com/services/magento-custom-extension-development.html)
+- [Magento Performance Optimization](https://store.webiators.com/services/magento-performance-optimization.html)
 
+For more information, visit [https://store.webiators.com/](https://store.webiators.com/)
