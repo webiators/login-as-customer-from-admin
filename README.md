@@ -9,11 +9,44 @@ By using the [Magento 2 Login Extension](https://store.webiators.com/magento-2-e
 
 Many times a situation arises where customers encounter difficulties while shopping or while completing the checkout process. At that time, the administrator has to understand and solve the customers' problems and help the customers. By installing Webiators’ Login As Customer Magento 2 Extension, the store owners can understand the problems faced by the customers by browsing the website by putting themselves in the customer's shoes.
 
-### Choose a customer that you want: 
-After enabling the extension admin would be able for logging into any customer's account with just one click from the admin panel.
+-Choose a customer that you want: After enabling the extension admin would be able for logging into any customer's account with just one click from the admin panel.
 ![First Step to do](https://store.webiators.com/pub/media/webiators/images/extension_images/Login_Customer.png)
 
-### Detect and Solve Issues:
-With the [Magento 2 Login As Customer](https://store.webiators.com/magento-2-extensions/login-as-customer-from-admin.html), The administrator can be able to detect and fix any problem faced by the customer by logging into any customer's account very easily without authentication.
+-Detect and Solve Issues: With the [Magento 2 Login As Customer](https://store.webiators.com/magento-2-extensions/login-as-customer-from-admin.html), The administrator can be able to detect and fix any problem faced by the customer by logging into any customer's account very easily without authentication.
 ![Second Step to do](https://store.webiators.com/pub/media/webiators/images/extension_images/Login_Customer2.png)
+
+### How to Install:
+Download the "Ready to paste" package from your customer's area, unzip it and upload the all files in 'app/code/Webiators/LoginAsCustomerFromAdmin folder to your Magento install dir.
+
+### Update the Database:
+Move to Magento Root directory with CLI and execute below commands
+-php bin/magento setup:upgrade
+-php bin/magento setup:di:compile
+-php bin/magento setup:static-content:deploy
+-php bin/magento cache:flush
+-php bin/magento cache:clean
+
+### How to Use:
+Go to Admin Panel ⇒ Store ⇒ Settings ⇒ Configuration ⇒ WEBIATORS ⇒ Login As Customer.
+
+### General Configuration:
+Enable Module: choose 'Yes' to enable the module.
+
+### Our Support Policy:
+- Free lifetime updates
+- 3 months of free support services 
+### Magento 2 Extensions
+- [Share On Whatsapp](https://store.webiators.com/magento-2-extensions/share-on-whatsapp.html)
+- [Quote On Whatsapp](https://store.webiators.com/magento-2-extensions/quote-on-whatsapp.html)
+- [Chat On Whatsapp](https://store.webiators.com/magento-2-extensions/chatonwhatsapp.html)
+- [Reindex From Admin](https://store.webiators.com/magento-2-extensions/reindex-from-admin.html)
+- [Delete Orders From Admin](https://store.webiators.com/magento-2-extensions/delete-orders-from-admin.html)
+- [GeoIP Redirection & Locker](https://store.webiators.com/magento-2-extensions/geoip-redirection-locker.html)
+- [Magento 2 Google Language Translator](https://store.webiators.com/magento-2-extensions/google-language-translator.html)
+- [Google Invisible Recaptcha](https://store.webiators.com/magento-2-extensions/google-invisible-recaptcha.html)
+- [Scroll To Top](https://store.webiators.com/magento-2-extensions/scroll-to-top.html)
+- [Auto Invoice and Shipment](https://store.webiators.com/magento-2-extensions/auto-invoice-and-shipment.html)
+- [Login As Customer From Admin](https://store.webiators.com/magento-2-extensions/login-as-customer-from-admin.html)
+
+For more information, visit [https://store.webiators.com/](https://store.webiators.com/)
 
